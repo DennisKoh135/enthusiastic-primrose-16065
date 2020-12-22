@@ -47,7 +47,7 @@ sections:
           learned in workshops to build a functioning PC! More information
           coming soon...
         align: left
-        image: images/feature.svg
+        image: images/undraw_heatmap_uyye.svg
         image_position: left
         actions:
           - label: Learn More
