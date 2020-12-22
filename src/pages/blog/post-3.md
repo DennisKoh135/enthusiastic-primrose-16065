@@ -3,8 +3,7 @@ title: December 7th Presentation
 date: '2020-05-28'
 categories:
   - src/data/categories/category-oxcgc7f7d.json
-tags:
-  - JAMstack
+tags: []
 image: images/undraw_Photograph_re_up3b.svg
 excerpt: >-
   Xbox or Playstation? Series X or Series S? PS5 or Xbox? We delve more into
