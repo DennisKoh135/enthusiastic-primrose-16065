@@ -37,7 +37,8 @@ sections:
       Use the Schoology Join Code 9T2XG-W9PG9 to be a part of the group!
   - type: team_section
     title: Our Team
-    team: []
+    team:
+      - src/data/team/person-xww3nt6m7.json
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
