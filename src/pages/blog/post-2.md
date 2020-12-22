@@ -2,7 +2,6 @@
 title: November 18th Presentation
 date: '2020-05-25'
 categories:
-  - src/data/categories/news.yaml
   - src/data/categories/general.yaml
 tags:
   - Jamstack
