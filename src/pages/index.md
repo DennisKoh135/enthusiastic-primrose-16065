@@ -72,9 +72,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Join Today!
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Use the Schoology code '
     actions:
       - label: Learn More
         url: /features
