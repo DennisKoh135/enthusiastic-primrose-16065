@@ -1,8 +1,7 @@
 ---
 title: December 16th Presentation
 date: '2020-05-30'
-categories:
-  - src/data/categories/news.yaml
+categories: []
 tags:
   - JAMstack
   - Sourcebit
