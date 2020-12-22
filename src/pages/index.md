@@ -28,9 +28,10 @@ sections:
     features:
       - title: Learn Basic Computer Hardware
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Learn and apply computer hardware in our weekly workshops! In this
+          club you'll learn a variety of different parts, processes, and
+          information about PCs and computers. They are plenty of hands on and
+          virtual activities!
         align: left
         image: images/feature.svg
         image_position: right
