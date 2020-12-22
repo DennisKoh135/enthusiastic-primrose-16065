@@ -1,7 +1,8 @@
 ---
 title: November 18th Presentation
 date: '2020-05-25'
-categories: []
+categories:
+  - src/data/categories/category-srr4jyuez.json
 tags: []
 image: images/undraw_Preparation_re_t0ce.svg
 excerpt: >-
