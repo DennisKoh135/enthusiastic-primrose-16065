@@ -5,6 +5,13 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Home",
+                "url": "",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Features",
                 "url": "/features",
                 "style": "link"
@@ -23,13 +30,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Home",
-                "url": "",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
             }
         ]
     },
