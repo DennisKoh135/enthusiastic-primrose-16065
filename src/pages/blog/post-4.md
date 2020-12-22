@@ -3,8 +3,7 @@ title: December 16th Presentation
 date: '2020-05-30'
 categories:
   - src/data/categories/category-ah8c695hr.json
-tags:
-  - Sourcebit
+tags: []
 image: images/undraw_Business_plan_re_0v81.svg
 excerpt: How to spec of computer part 2 - in preparation of build session on the 21st.
 template: post
