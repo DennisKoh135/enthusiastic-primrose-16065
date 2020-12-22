@@ -8,7 +8,7 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/undraw_pie_graph_x9dy.svg
+image: images/undraw_progress_data_4ebj.svg
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
