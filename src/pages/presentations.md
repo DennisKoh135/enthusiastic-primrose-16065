@@ -32,8 +32,8 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>November</td>
-        <td>Footer content 2</td>
+        <td>November 18 - How to Build a Computer</td>
+        <td>shorturl.at/nLPZ5</td>
       </tr>
     </tfoot>
 		 <tbody>
