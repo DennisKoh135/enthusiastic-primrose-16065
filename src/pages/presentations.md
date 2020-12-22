@@ -1,5 +1,5 @@
 ---
-title: List of All Powerpoint Presentations
+title: List of all Powerpoint Presentations
 excerpt: lorem-ipsum
 template: page
 ---
