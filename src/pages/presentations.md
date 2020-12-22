@@ -20,14 +20,14 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>November 2</td>
-        <td>How to Spec a Computer: shorturl.at/ktGI0</td>
+        <td>December 21</td>
+        <td>Pre-Build Powerpoint: </td>
       </tr>
     </tfoot>
 		 <tbody>
       <tr>
-        <td>November 17</td>
-        <td>Body content 2</td>
+        <td>November 2</td>
+        <td>How to Spec a Computer: shorturl.at/ktGI0</td>
       </tr>
     </tbody>
     <tfoot>
