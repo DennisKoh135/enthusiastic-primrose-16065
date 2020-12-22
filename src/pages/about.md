@@ -8,7 +8,8 @@ sections:
     content: >-
       Computers for Kids is a community service-oriented technology clubs that
       refurbishes donated computers which are then distributed to families in
-      need in our community.
+      need in our community. We also provide free, after-school PC-building
+      lessons every Monday afternoons.
 
 
       Some of the club functions:
