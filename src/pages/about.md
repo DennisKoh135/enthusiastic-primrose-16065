@@ -36,7 +36,7 @@ sections:
 
       Use the Schoology Join Code 9T2XG-W9PG9 to be a part of the group!
   - type: team_section
-    title: Our Team
+    title: Leadership & Advising
     team:
       - src/data/team/person-xww3nt6m7.json
       - src/data/team/person-9rkzc6rbj.json
