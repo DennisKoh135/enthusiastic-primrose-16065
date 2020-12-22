@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/undraw_absorbed_in_xahs.svg
 excerpt: >-
   Pre-build powerpoint on PC hardware, care-package use, and general curbside
   pickup overview.
