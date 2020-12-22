@@ -3,8 +3,6 @@ title: Powerpoint Presentations
 excerpt: lorem-ipsum
 template: page
 ---
-# Here are a list of all the presentations:
-
 <div class="responsive-table">
   <table>
       <caption>Table with thead, tfoot, and tbody</caption>
