@@ -3,7 +3,7 @@ title: Powerpoint Presentations
 excerpt: lorem-ipsum
 template: page
 ---
-## Tables
+# Here are a list of all the presentations:
 
 <div class="responsive-table">
   <table>
