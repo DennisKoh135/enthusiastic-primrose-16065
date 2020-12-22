@@ -87,7 +87,7 @@ template: page
     </tfoot>
 		 <tbody>
       <tr>
-        <td>November 18 - How to Build a Computer</td>
+        <td>Weekly Industry News Template File</td>
         <td>shorturl.at/gpuDL</td>
       </tr>
     </tbody>
