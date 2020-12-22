@@ -33,7 +33,7 @@ sections:
           information about PCs and computers. They are plenty of hands on and
           virtual activities!
         align: left
-        image: images/feature.svg
+        image: images/undraw_circuit_board_4c4d.svg
         image_position: right
         actions:
           - label: Learn More
