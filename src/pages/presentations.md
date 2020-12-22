@@ -20,8 +20,8 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
+        <td>November 2</td>
+        <td>How to Spec a Computer: shorturl.at/ktGI0</td>
       </tr>
     </tfoot>
 		 <tbody>
