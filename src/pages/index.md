@@ -41,9 +41,11 @@ sections:
             style: secondary
       - title: Design and Build Your Own PC
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          One of the main activities we do in Computers For Kids is building
+          your own PC! Along with the virtual simulation, this year we are
+          planning to do a build-along activity where you can apply what you've
+          learned in workshops to build a functioning PC! More information
+          coming soon...
         align: left
         image: images/feature.svg
         image_position: left
