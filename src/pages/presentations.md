@@ -33,7 +33,7 @@ template: page
     <tfoot>
       <tr>
         <td>November 17 - Virtual Reality</td>
-        <td>shorturl.at/nLPZ5</td>
+        <td>shorturl.at/imJO1</td>
       </tr>
     </tfoot>
 		 <tbody>
