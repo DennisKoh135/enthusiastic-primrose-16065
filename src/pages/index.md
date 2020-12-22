@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Conestoga High School Computers For Kids
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Interested in learning about computer hardware? Eager to build your own PC
+      right at home? Join CHS Computers4Kids to learn more about computers!
     actions:
       - label: Learn More
         url: /features
