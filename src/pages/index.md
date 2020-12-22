@@ -52,9 +52,10 @@ sections:
             style: secondary
       - title: Interact With Others and Collaborate
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Computers are complex and intricate pieces of technologies. Luckily,
+          in this club we work together with others to achieve our goals.
+          Collaborate and converse with your peers, and learn from others as
+          well.
         align: left
         image: images/feature.svg
         image_position: right
