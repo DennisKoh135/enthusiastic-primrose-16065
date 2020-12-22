@@ -15,7 +15,7 @@ template: page
     <tbody>
       <tr>
         <td>October 12</td>
-        <td>Access here shorturl.at/qzCP5</td>
+        <td>Introduction Powerpoint: shorturl.at/qzCP5</td>
       </tr>
     </tbody>
     <tfoot>
