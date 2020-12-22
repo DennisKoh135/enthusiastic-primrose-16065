@@ -1,7 +1,8 @@
 ---
 title: December 16th Presentation
 date: '2020-05-30'
-categories: []
+categories:
+  - src/data/categories/category-ah8c695hr.json
 tags:
   - JAMstack
   - Sourcebit
