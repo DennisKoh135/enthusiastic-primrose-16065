@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Club Features
-    subtitle: 'A more, in-depth look into some of Computers for Kid''s '
+    subtitle: 'A more, in-depth look into some of Computers for Kid''s functions'
     align: center
   - type: features_section
     features:
