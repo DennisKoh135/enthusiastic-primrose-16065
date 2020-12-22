@@ -6,18 +6,31 @@ sections:
     align: center
   - type: content_section
     content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+      Computers4Kids is a community service-oriented technology clubs that
+      refurbishes donated computers which are then distributed to families in
+      need in our community.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      Some of the club functions:
+
+
+      * Refurbish and repair broken computers at the Network Operations Center
+      (NOC)
+
+      * Educate members about PCs with weekly workshops and hands-on build
+      sessions
+
+      * Spread our passion for PCs/technology with new members around the
+      school.
+
+      * We work closely with TE-Cares to donate computers to families in the
+      surrounding area. More information can be found at this link below:
+
+
+      https://www.tecare.org/needs-assistance/computerinternet-help/
+
+
+      Use the Schoology Join Code 9T2XG-W9PG9 to be a part of the group!
   - type: team_section
     title: Our Team
     team:
