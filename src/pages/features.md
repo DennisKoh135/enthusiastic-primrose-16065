@@ -41,7 +41,7 @@ sections:
           virtual reality, new tech releases, specs, stocks, NVIDIA vs Intel,
           and so much more!
         align: left
-        image: images/feature.svg
+        image: images/undraw_Online_learning_re_qw08.svg
         image_position: left
         actions: []
       - title: 'Fun, Stimulating Activities for All'
