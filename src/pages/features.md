@@ -9,9 +9,9 @@ sections:
     features:
       - title: Curbside PC Pickup
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          With our brand-new curbside pickup system, take home a care package
+          with all the PC essentials like motherboards, hard-drives, CPUs,
+          cases, and more and learn directly from the comfort of your home!
         align: left
         image: images/feature.svg
         image_position: right
