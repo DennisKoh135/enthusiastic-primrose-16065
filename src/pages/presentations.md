@@ -63,8 +63,8 @@ template: page
     </thead>
     <tbody>
       <tr>
-        <td>October 12 - Introduction Powerpoint</td>
-        <td>shorturl.at/qzCP5</td>
+        <td>PC Building Simulator Request</td>
+        <td>shorturl.at/avGPR</td>
       </tr>
     </tbody>
     <tfoot>
