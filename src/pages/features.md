@@ -42,9 +42,15 @@ sections:
         actions: []
       - title: 'Fun, Stimulating Activities for All'
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Whether it's playing simulation games, or PC part scavenger quests,
+          there's definitely something for you. New ideas are always welcome, so
+          please let the us know through the contact form what you would like to
+          see more of!
+
+          <br><br>
+
+          For example, we participate in simulation games, tech competitions,
+          fun PC activities, and more surprises planned ahead.
         align: left
         image: images/feature.svg
         image_position: right
