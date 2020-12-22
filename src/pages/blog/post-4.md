@@ -8,7 +8,7 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: images/undraw_Eco_conscious_re_r2bs.svg
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
