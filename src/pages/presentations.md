@@ -15,7 +15,7 @@ template: page
     <tbody>
       <tr>
         <td>October 12</td>
-        <td>[Introduction Powerpoint](https://tesdnet-my.sharepoint.com/:p:/r/personal/22grossmana_tesdk12_net/Documents/2020-2021/Computers%20For%20Kids%202020%20-%202021/Workshops/Intro%20Powerpoint.pptx?d=wbc54b4dbf8104a08a6cf7644c6b9630a&csf=1&web=1&e=Xa2mnQ)</td>
+        <td>https://tesdnet-my.sharepoint.com/:p:/r/personal/22grossmana_tesdk12_net/Documents/2020-2021/Computers%20For%20Kids%202020%20-%202021/Workshops/Intro%20Powerpoint.pptx?d=wbc54b4dbf8104a08a6cf7644c6b9630a&csf=1&web=1&e=Xa2mnQ</td>
       </tr>
     </tbody>
     <tfoot>
