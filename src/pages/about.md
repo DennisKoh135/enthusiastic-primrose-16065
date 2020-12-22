@@ -43,7 +43,7 @@ sections:
       - src/data/team/person-needy3ky5.json
       - src/data/team/person-rn8q21222.json
   - type: cta_section
-    title: Join the Club!
+    title: Join the Conversation
     subtitle: >-
       Use the contact form if you are interested in communicating with the
       advisors and presidents.
