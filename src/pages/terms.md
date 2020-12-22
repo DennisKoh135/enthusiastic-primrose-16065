@@ -187,8 +187,13 @@ These Terms of Use and any policies or operating rules posted by us on the Site 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
 
 **Conestoga High School Computers For Kids
+<br>
 200 Irish Road
+<br>
 Berwyn, PA 19087
+<br>
 United States
+<br>
 Phone: 5407500960
+<br>
 denniskoh135@gmail.com**
