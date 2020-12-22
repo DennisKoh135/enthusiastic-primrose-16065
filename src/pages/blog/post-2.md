@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: November 18th Presentation
 date: '2020-05-25'
 author: src/data/team/miles-tone.yaml
 categories:
