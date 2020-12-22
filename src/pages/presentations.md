@@ -32,7 +32,7 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>Footer content 1</td>
+        <td>November</td>
         <td>Footer content 2</td>
       </tr>
     </tfoot>
