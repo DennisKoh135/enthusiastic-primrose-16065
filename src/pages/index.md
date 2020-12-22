@@ -72,7 +72,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Join Today!
-    subtitle: 'Use the Schoology join code 9T2XG-W9PG9 to '
+    subtitle: Use the Schoology join code 9T2XG-W9PG9 to jump right in!
     actions:
       - label: Learn More
         url: /features
