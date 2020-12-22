@@ -25,7 +25,7 @@ sections:
           Link to sign up
           [here](https://forms.office.com/Pages/ResponsePage.aspx?id=qxqZ1-C_6EaDFd7YfRIuYz1w9KqV5DVLoFDMqxkyER1UMVdJTE1JQlQ0T1kyMVdIWDJYMDVJSTlaQi4u)
         align: left
-        image: images/feature.svg
+        image: images/undraw_order_delivered_p6ba.svg
         image_position: right
         actions: []
       - title: Weekly Workshops
