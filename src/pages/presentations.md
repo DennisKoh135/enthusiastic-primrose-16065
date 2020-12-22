@@ -11,7 +11,7 @@ template: page
     <thead>
       <tr>
         <th>Date of meeting</th>
-        <th>Name of presentation</th>
+        <th>Name and Link to presentation</th>
       </tr>
     </thead>
     <tbody>
