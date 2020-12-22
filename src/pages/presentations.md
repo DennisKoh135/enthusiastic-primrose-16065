@@ -26,7 +26,7 @@ template: page
     </tfoot>
 		 <tbody>
       <tr>
-        <td>Body content 1</td>
+        <td>November 17</td>
         <td>Body content 2</td>
       </tr>
     </tbody>
