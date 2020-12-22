@@ -38,9 +38,6 @@ sections:
         align: left
         image: images/feature.svg
         image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
+        actions: []
 template: advanced
 ---
