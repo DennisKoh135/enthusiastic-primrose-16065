@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - JAMstack
 image: images/undraw_Photograph_re_up3b.svg
-excerpt: 'Xbox or Playstation? '
+excerpt: Xbox or Playstation? Series X or Series S? PS5 or Xbox
 template: post
 ---
 
