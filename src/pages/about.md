@@ -24,6 +24,9 @@ sections:
       * Spread our passion for PCs/technology with new members around the
       school.
 
+      * Teach students who are interested in computers about assembling their
+      own PCs through a care-package system.
+
       * We work closely with TE-Cares to donate computers to families in the
       surrounding area. More information can be found at this link below:
 
