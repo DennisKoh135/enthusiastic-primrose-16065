@@ -44,7 +44,9 @@ sections:
       - src/data/team/person-rn8q21222.json
   - type: cta_section
     title: Join the Club!
-    subtitle: 'Use the contact form if you are interested in communicating with the '
+    subtitle: >-
+      Use the contact form if you are interested in communicating with the
+      advisors and presidents.
     actions:
       - label: Contact Us
         url: /contact
