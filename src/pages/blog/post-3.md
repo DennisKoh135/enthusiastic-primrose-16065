@@ -8,7 +8,9 @@ tags:
   - Stackbit
   - JAMstack
 image: images/undraw_Photograph_re_up3b.svg
-excerpt: Xbox or Playstation? Series X or Series S? PS5 or Xbox
+excerpt: >-
+  Xbox or Playstation? Series X or Series S? PS5 or Xbox? We delve more into
+  these questions during this week's console presentation
 template: post
 ---
 
