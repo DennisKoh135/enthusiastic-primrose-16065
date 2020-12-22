@@ -74,7 +74,7 @@ sections:
     title: Join Today!
     subtitle: Use the Schoology join code 9T2XG-W9PG9 to jump right in!
     actions:
-      - label: Learn More
+      - label: 'Go '
         url: /features
         style: primary
     has_background: true
