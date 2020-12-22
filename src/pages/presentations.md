@@ -5,7 +5,7 @@ template: page
 ---
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+      <caption>Click on each link to go over any powerpoints you may have missed or like to read again.</caption>
     <thead>
       <tr>
         <th>Date of meeting</th>
