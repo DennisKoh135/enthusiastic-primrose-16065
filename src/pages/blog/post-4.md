@@ -2,7 +2,6 @@
 title: December 16th Presentation
 date: '2020-05-30'
 categories:
-  - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
 tags:
   - JAMstack
