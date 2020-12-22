@@ -11,7 +11,14 @@ sections:
         content: >
           With our brand-new curbside pickup system, take home a care package
           with all the PC essentials like motherboards, hard-drives, CPUs,
-          cases, and more and learn directly from the comfort of your home!
+          cases, and more and learn directly from the comfort of your home! To
+          sign up, simply click on the link below and fill in the information
+          about the package. 
+
+          <br><br>
+
+          Then, stay tuned for our next afterschool meeting where we will
+          demonstrate how to assemble a PC from the materials in the package!
 
           <br><br>
 
