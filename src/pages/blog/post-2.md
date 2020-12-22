@@ -8,7 +8,7 @@ categories:
 tags:
   - Jamstack
   - Netlify
-image: images/groovy-yam.svg
+image: images/elite-eucalyptus.svg
 excerpt: >-
   How do you build a PC? What steps are required? That's what today's
   presentation covers. Learn everything about building a PC from scratch.
