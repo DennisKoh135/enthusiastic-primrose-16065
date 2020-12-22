@@ -32,14 +32,14 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>November 18 - How to Build a Computer</td>
+        <td>November 17 - Virtual Reality</td>
         <td>shorturl.at/nLPZ5</td>
       </tr>
     </tfoot>
 		 <tbody>
       <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
+        <td>November 18 - How to Build a Computer</td>
+        <td>shorturl.at/nLPZ5</td>
       </tr>
     </tbody>
     <tfoot>
