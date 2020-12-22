@@ -37,8 +37,7 @@ sections:
       Use the Schoology Join Code 9T2XG-W9PG9 to be a part of the group!
   - type: team_section
     title: Our Team
-    team:
-      - src/data/team/gordon-norman.yaml
+    team: []
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
