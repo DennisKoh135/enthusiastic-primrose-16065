@@ -75,7 +75,7 @@ sections:
     subtitle: Use the Schoology join code 9T2XG-W9PG9 to jump right in!
     actions:
       - label: Go Now!
-        url: 'https://www.schoology.tesd.net'
+        url: 'https://schoology.tesd.net/home'
         style: primary
     has_background: true
     background_color: gray
