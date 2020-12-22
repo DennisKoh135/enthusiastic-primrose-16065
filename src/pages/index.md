@@ -60,7 +60,7 @@ sections:
           Collaborate and converse with your peers, and learn from others as
           well.
         align: left
-        image: images/feature.svg
+        image: images/undraw_share_link_qtxe.svg
         image_position: right
         actions:
           - label: Learn More
