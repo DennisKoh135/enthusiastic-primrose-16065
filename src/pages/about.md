@@ -6,7 +6,7 @@ sections:
     align: center
   - type: content_section
     content: >-
-      Computers4Kids is a community service-oriented technology clubs that
+      Computers for Kids is a community service-oriented technology clubs that
       refurbishes donated computers which are then distributed to families in
       need in our community.
 
