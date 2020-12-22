@@ -48,14 +48,7 @@
             }
         ],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; CHS Computers For Kids. All rights reserved."
     },
     "title": "Stackbit Starter Theme"
