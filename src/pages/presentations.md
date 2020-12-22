@@ -52,14 +52,13 @@ template: page
 </div>
 
 
-
 # Other Forms
 <div class="responsive-table">
   <table>
     <thead>
       <tr>
-        <th>Name and date of meeting</th>
-        <th>Link to presentation</th>
+        <th>Important form names</th>
+        <th>Link to forms</th>
       </tr>
     </thead>
     <tbody>
