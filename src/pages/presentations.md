@@ -44,8 +44,8 @@ template: page
     </tbody>
     <tfoot>
       <tr>
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
+        <td>December 7th - New Consoles Presentation</td>
+        <td>shorturl.at/qwCU4</td>
       </tr>
     </tfoot>
   </table>
