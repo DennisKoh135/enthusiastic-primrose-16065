@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: List of All of the Computers For Kids Presentations
 excerpt: lorem-ipsum
 template: page
 ---
