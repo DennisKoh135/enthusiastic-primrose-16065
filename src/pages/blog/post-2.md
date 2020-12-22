@@ -3,7 +3,6 @@ title: November 18th Presentation
 date: '2020-05-25'
 categories: []
 tags:
-  - Jamstack
   - Netlify
 image: images/undraw_Preparation_re_t0ce.svg
 excerpt: >-
