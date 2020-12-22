@@ -10,8 +10,8 @@ template: page
       <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
-        <th>Header content 1</th>
-        <th>Header content 2</th>
+        <th>Date of meeting</th>
+        <th>Name of presentation</th>
       </tr>
     </thead>
     <tbody>
