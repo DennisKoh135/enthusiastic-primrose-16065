@@ -13,9 +13,10 @@ sections:
           with all the PC essentials like motherboards, hard-drives, CPUs,
           cases, and more and learn directly from the comfort of your home!
 
-          <br>
+          <br><br>
 
-          Lik
+          Link to sign up
+          [here](https://forms.office.com/Pages/ResponsePage.aspx?id=qxqZ1-C_6EaDFd7YfRIuYz1w9KqV5DVLoFDMqxkyER1UMVdJTE1JQlQ0T1kyMVdIWDJYMDVJSTlaQi4u)
         align: left
         image: images/feature.svg
         image_position: right
