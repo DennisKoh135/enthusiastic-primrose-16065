@@ -29,10 +29,7 @@ sections:
         align: left
         image: images/feature.svg
         image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
+        actions: []
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
