@@ -1,8 +1,7 @@
 ---
 title: November 18th Presentation
 date: '2020-05-25'
-categories:
-  - src/data/categories/general.yaml
+categories: []
 tags:
   - Jamstack
   - Netlify
