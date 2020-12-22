@@ -30,9 +30,12 @@ sections:
         actions: []
       - title: Weekly Workshops
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Every Mondays, join in on our meetings through TEAMs to listen in our
+          weekly workshops. These workshops are led primarily by Dennis and
+          Aaron, although members are more than welcome to share interesting
+          topics to the club! Some examples of workshops might include
+          artificial intelligence, virtual reality, new tech releases, stocks,
+          and so much more!
         align: left
         image: images/feature.svg
         image_position: left
