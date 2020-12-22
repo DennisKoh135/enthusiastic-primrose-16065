@@ -2,8 +2,7 @@
 title: November 18th Presentation
 date: '2020-05-25'
 categories: []
-tags:
-  - Netlify
+tags: []
 image: images/undraw_Preparation_re_t0ce.svg
 excerpt: >-
   How do you build a PC? What steps are required? That's what today's
