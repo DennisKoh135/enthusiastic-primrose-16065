@@ -44,7 +44,7 @@ sections:
       - src/data/team/person-rn8q21222.json
   - type: cta_section
     title: Join the Club!
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Use the contact form '
     actions:
       - label: Contact Us
         url: /contact
