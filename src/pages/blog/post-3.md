@@ -1,7 +1,8 @@
 ---
 title: December 7th Presentation
 date: '2020-05-28'
-categories: []
+categories:
+  - src/data/categories/category-oxcgc7f7d.json
 tags:
   - Stackbit
   - JAMstack
