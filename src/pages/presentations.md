@@ -21,7 +21,7 @@ template: page
     <tfoot>
       <tr>
         <td>December 21 - Pre-Build Powerpoint</td>
-        <td>Pre-Build Powerpoint: </td>
+        <td>shorturl.at/pzDN1</td>
       </tr>
     </tfoot>
 		 <tbody>
