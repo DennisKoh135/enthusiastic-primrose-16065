@@ -26,5 +26,29 @@ template: page
         <td>Footer content 2</td>
       </tr>
     </tfoot>
+		 <tbody>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Footer content 1</td>
+        <td>Footer content 2</td>
+      </tr>
+    </tfoot>
+		 <tbody>
+      <tr>
+        <td>Body content 1</td>
+        <td>Body content 2</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Footer content 1</td>
+        <td>Footer content 2</td>
+      </tr>
+    </tfoot>
   </table>
 </div>
