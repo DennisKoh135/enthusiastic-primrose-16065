@@ -10,8 +10,8 @@ tags:
   - Netlify
 image: images/2.png
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  How do you build a PC? What steps are required? That's what today's
+  presentation covers. Learn everything about building a PC from scratch.
 template: post
 ---
 
