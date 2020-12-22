@@ -56,7 +56,7 @@ sections:
           For example, we participate in simulation games, tech competitions,
           fun PC activities, and more surprises planned ahead.
         align: left
-        image: images/feature.svg
+        image: images/undraw_team_spirit_hrr4 (1).svg
         image_position: right
         actions: []
 template: advanced
