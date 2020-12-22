@@ -4,7 +4,6 @@ date: '2020-05-28'
 categories:
   - src/data/categories/category-oxcgc7f7d.json
 tags:
-  - Stackbit
   - JAMstack
 image: images/undraw_Photograph_re_up3b.svg
 excerpt: >-
