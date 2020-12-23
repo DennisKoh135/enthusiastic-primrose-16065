@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/Computers For Kids Logo (1).PNG
+    image: images/undraw_programming_2svr (2).svg
     image_position: right
     has_background: true
     background:
